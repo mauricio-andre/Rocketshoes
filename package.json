@@ -1,0 +1,15 @@
+{
+  "name": "rocketshoes",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "author": "Mauricio R Andre <mauricio-andre>",
+  "license": "MIT",
+  "devDependencies": {
+    "@rocketshoes/eslint-config": "*"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "@rocketshoes/backend",
+  "version": "1.0.0",
+  "main": "server.json",
+  "license": "MIT",
+  "scripts": {
+    "start": "json-server --watch server.json --port 3333"
+  },
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
+}
